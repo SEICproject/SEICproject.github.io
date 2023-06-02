@@ -16,15 +16,15 @@
 
 **Vincent Clesi** \| now post-doctoral fellow at Rice University, Houston, USA
 
-  > https://www.researchgate.net/profile/Vincent-Clesi
+  > [link to webpage](https://www.researchgate.net/profile/Vincent-Clesi)
 
 **Jenny Wong** \| now Research Software Engineer at University of Birmingham, UK
 
-  > https://jnywong.github.io/
+  > [link to webpage](https://jnywong.github.io/)
 
 **Ludovic Huguet** \| currently post-doctoral fellow at ISTerre, Grenoble, France
 
-  > https://www.researchgate.net/profile/Ludovic-Huguet
+  > [link to webpage](https://www.researchgate.net/profile/Ludovic-Huguet)
 
 **Jean-Baptiste Wacheul** \|
 
