@@ -34,8 +34,7 @@
   
 - **Velocity field and cavity dynamics in drop impact experiments**, V.Lherm & R.Deguen, *Journal of Fluid Mechanics*, 962, 2023.
 
-  > [link to journal](https://doi.org/10.1017/jfm.2023.297)
-  >
+  > [link to journal](https://doi.org/10.1017/jfm.2023.297);
   > [link to depository](https://arxiv.org/pdf/2305.03709.pdf)
   
 
