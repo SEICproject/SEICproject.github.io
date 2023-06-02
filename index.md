@@ -1,2 +1,8 @@
+{% include navigation.html %}
 
-test
+---
+
+
+
+
+#![test](/docs/assets/images/bandeau_logos_2023.png)
