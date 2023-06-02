@@ -30,6 +30,8 @@
   
   https://arxiv.org/abs/2012.10273
   
+  See also the *Focus on Fluids* article by E.Villermaux: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/equilibrated-crater-fragmentation-and-mixing/9FF9E820DECD9D86915B9D50D627E15A
+  
 - **Linking the Core Heat Content to Earth's Accretion History**, V.Clesi & R.Deguen, *Geochemistry, Geophysics, Geosystems (G3)*, 24, 1-31, 2023.
 
   https://doi.org/10.1029/2022GC010661
