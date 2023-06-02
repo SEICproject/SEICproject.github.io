@@ -8,7 +8,7 @@
 
 **Victor Lherm** \| now post-doctoral fellow at Rochester University, USA
 
-https://www.researchgate.net/profile/Victor-Lherm
+> https://www.researchgate.net/profile/Victor-Lherm
 
 **Robin Metayer** \|
 
