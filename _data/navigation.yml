@@ -1,0 +1,6 @@
+- name: Home
+  link: /index
+- name: Program
+  link: /program
+- name: Registration
+  link: /registration
