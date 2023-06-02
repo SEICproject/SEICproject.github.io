@@ -15,6 +15,7 @@
   > https://arxiv.org/abs/1905.10416
 
 - **Metal-silicate mixing by large Earth-forming impacts**, M.Landeau, R.Deguen, D.Phillips, J.A.Neufeld, V.Lherm, S.B.Dalziel, *Earth and Planetary Science Letters*, 564, 2021.
+
   > https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001473
   > 
   > https://hal.archives-ouvertes.fr/hal-03271232/
