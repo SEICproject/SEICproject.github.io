@@ -4,20 +4,17 @@
 
 - **Small-scale metal/silicate equilibration during core formation: the influence of stretching enhanced diffusion on mixing**, V.Lherm & R.Deguen, *Journal of Geophysical Research: Solid Earth*, 123, 2018.
 
-  > [link to journal](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016537)
-  >
+  > [link to journal](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016537); 
   > [link to depository](http://arxiv.org/abs/1812.07855)
 
 - **Fluid Dynamics of Earth’s Core: Geodynamo, Inner Core Dynamics, Core Formation**, R.Deguen & M.Lasbleis, *in Fluid Mechanics of Planets and Stars*, 2020.
 
-  > [link to journal](https://link.springer.com/chapter/10.1007/978-3-030-22074-7_5)
-  >
+  > [link to journal](https://link.springer.com/chapter/10.1007/978-3-030-22074-7_5);
   > [link to depository](https://arxiv.org/abs/1905.10416)
 
 - **Metal-silicate mixing by large Earth-forming impacts**, M.Landeau, R.Deguen, D.Phillips, J.A.Neufeld, V.Lherm, S.B.Dalziel, *Earth and Planetary Science Letters*, 564, 2021.
 
-  > [link to journal](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001473)
-  > 
+  > [link to journal](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001473);
   > [link to depository](https://hal.archives-ouvertes.fr/hal-03271232/)
   
 - **Rayleigh-Taylor instability in drop impact experiments**, V.Lherm, R.Deguen, T.Alboussière, M.Landeau, *Physical Review Fluids*, 6/11, 2021.
@@ -26,8 +23,7 @@
   
 - **Rayleigh–Taylor instability in impact cratering experiments**, V.Lherm, R.Deguen, T.Alboussière, M.Landeau, *Journal of Fluid Mechanics*, 937, A20, 2022.
 
-  > [link to journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/rayleightaylor-instability-in-impact-cratering-experiments/B664BBEEDAD5228414E55BB73FF8CA28)
-  >
+  > [link to journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/rayleightaylor-instability-in-impact-cratering-experiments/B664BBEEDAD5228414E55BB73FF8CA28);
   > [link to depository](https://arxiv.org/abs/2012.10273)
   >
   > See also the [*Focus on Fluids* article by E.Villermaux](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/equilibrated-crater-fragmentation-and-mixing/9FF9E820DECD9D86915B9D50D627E15A)
