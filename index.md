@@ -8,4 +8,3 @@ We propose here a fluid dynamics oriented study of metal-silicate interactions a
 
 <img src="/assets/img/LOGO-ERC.jpeg" alt="drawing" width="200"/>
 
-![](/assets/img/LOGO-ERC.jpeg)
